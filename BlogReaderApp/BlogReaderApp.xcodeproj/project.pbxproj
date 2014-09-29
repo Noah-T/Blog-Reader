@@ -444,6 +444,7 @@
 				DE2D0ADE19DA091300E9095E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DE2D0ADF19DA091300E9095E /* Build configuration list for PBXNativeTarget "BlogReaderAppTests" */ = {
 			isa = XCConfigurationList;
@@ -452,6 +453,7 @@
 				DE2D0AE119DA091300E9095E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
